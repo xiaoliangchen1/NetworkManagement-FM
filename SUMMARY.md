@@ -13,5 +13,5 @@
    * [2.3查看历史告警](chapter2/chapter2_3.md)
        * [2.3.1设置告警查询条件](chapter2/chapter2_3_1.md)
        * [2.3.2历史告警查询](chapter2/chapter2_3_2.md)
-   * 2.4告警报表统计
+   * [2.4告警报表统计](chapter2/chapter2_4.md)
 
