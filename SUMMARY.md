@@ -16,5 +16,4 @@
   * [2.4告警报表统计](chapter2/chapter2_4.md)
 * [3.发现问题](chapter3/chapter3.md)
   * [000](chapter3/chapter3/a.md)
-    * [ffdf](chapter3/chapter3/a/ffdf.md)
 
