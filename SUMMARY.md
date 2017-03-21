@@ -15,5 +15,4 @@
     * [2.3.2历史告警查询](chapter2/chapter2_3_2.md)
   * [2.4告警报表统计](chapter2/chapter2_4.md)
 * [3.发现问题](chapter3/chapter3.md)
-  * [000](chapter3/chapter3/a.md)
 
